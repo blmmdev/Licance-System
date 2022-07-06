@@ -1,0 +1,12 @@
+<meta>
+
+
+
+<script type="server" src="server.luac"/>
+<script type="shared" src="shared.lua"/>
+<export type="client" function="getServerName"/>
+<export type="server" function="getServerName"/>
+
+
+
+</meta>
